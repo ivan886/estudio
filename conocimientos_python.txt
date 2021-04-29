@@ -6,4 +6,6 @@ while
 
 django 
 routes
-
+views
+static
+templates
